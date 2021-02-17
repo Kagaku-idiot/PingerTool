@@ -28,7 +28,7 @@ echo --[[ ╚════██║██║ ███╔╝  ██╔══╝ 
 echo --[[ ███████║██║███████╗███████╗ ]]--
 echo --[[ ╚══════╝╚═╝╚══════╝╚══════╝ ]]--
 echo.
-set /p Bytesize=Enter How big you packets will be [Max is 65,500]:
+set /p Bytesize=Enter How big your packets will be [Max is 65,500]:
 set ByteData=%Bytesize%
 goto speedpage
 :speedpage
